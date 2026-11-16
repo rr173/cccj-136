@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "root": "Event",
+  "structs": {
+    "Event": {
+      "fields": [
+        {"num": 1, "name": "items", "type": {"kind": "list", "nullable": true,
+          "elem": {"kind": "struct", "struct": "Item", "nullable": true}}},
+        {"num": 2, "name": "payload", "type": {"kind": "text", "nullable": true}},
+        {"num": 3, "name": "matrix", "type": {"kind": "list", "nullable": true,
+          "elem": {"kind": "list", "nullable": true,
+            "elem": {"kind": "struct", "struct": "Cell", "nullable": true}}}},
+        {"num": 4, "name": "meta", "type": {"kind": "struct", "struct": "Meta", "nullable": true}}
+      ]
+    },
+    "Item": {
+      "fields": [
+        {"num": 1, "name": "x", "type": {"kind": "int64", "nullable": true}}
+      ]
+    },
+    "Cell": {
+      "fields": [
+        {"num": 1, "name": "v", "type": {"kind": "int64", "nullable": true}},
+        {"num": 2, "name": "tag", "type": {"kind": "text", "nullable": true}}
+      ]
+    },
+    "Meta": {
+      "fields": [
+        {"num": 1, "name": "flag", "type": {"kind": "bool", "nullable": true}}
+      ]
+    }
+  }
+}

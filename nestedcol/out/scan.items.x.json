@@ -1,0 +1,15 @@
+{"row":0,"line":1,"projection":{"$missing":true}}
+{"row":1,"line":2,"projection":null}
+{"row":2,"line":3,"projection":[]}
+{"row":3,"line":4,"projection":[null]}
+{"row":4,"line":5,"projection":[{"x":null},{"x":7},{"x":7}]}
+{"row":5,"line":6,"projection":{"$missing":true}}
+{"row":6,"line":7,"projection":{"$missing":true}}
+{"row":7,"line":8,"projection":{"$missing":true}}
+{"row":8,"line":9,"projection":[{"x":-9223372036854775808}]}
+{"row":9,"line":10,"projection":{"$missing":true}}
+{"row":10,"line":11,"projection":[{"x":9223372036854775807}]}
+{"row":11,"line":12,"projection":{"$missing":true}}
+{"row":12,"line":13,"projection":[{"x":{"$missing":true}}]}
+{"row":13,"line":14,"projection":[{"x":null}]}
+{"row":14,"line":15,"projection":[{"x":7}]}

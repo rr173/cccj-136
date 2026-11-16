@@ -1,0 +1,29 @@
+LOG HEADER off=8 len=1063 crc=ok
+LOG FOOTER off=62394 len=143 crc=ok
+LOG META rg=0 off=61507 len=887 crc=ok
+LOG INDEX rg=0 col=items.x off=58643 len=24 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=values page=0 off=58628 len=15 crc=ok
+LOG INDEX rg=0 col=matrix.tag off=58685 len=24 crc=ok
+LOG PAGE rg=0 col=matrix.tag stream=struct page=0 off=58667 len=18 crc=ok
+LOG INDEX rg=0 col=matrix.v off=58727 len=24 crc=ok
+LOG PAGE rg=0 col=matrix.v stream=struct page=0 off=58709 len=18 crc=ok
+LOG INDEX rg=0 col=meta.flag off=58769 len=24 crc=ok
+LOG PAGE rg=0 col=meta.flag stream=struct page=0 off=58751 len=18 crc=ok
+LOG INDEX rg=0 col=payload off=61483 len=24 crc=ok
+LOG PAGE rg=0 col=payload stream=struct page=0 off=58793 len=18 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=0 off=1075 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=1 off=5184 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=2 off=9293 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=3 off=13402 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=4 off=17511 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=5 off=21620 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=6 off=25729 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=7 off=29838 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=8 off=33947 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=9 off=38056 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=10 off=42165 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=11 off=46274 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=12 off=50383 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=13 off=54492 len=4109 crc=ok
+LOG PAGE rg=0 col=payload stream=values page=14 off=58811 len=2672 crc=ok

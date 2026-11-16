@@ -1,0 +1,12 @@
+LOG HEADER off=8 len=1063 crc=ok
+LOG FOOTER off=62394 len=143 crc=ok
+LOG META rg=0 off=61507 len=887 crc=ok
+LOG INDEX rg=0 col=items.x off=58643 len=24 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=struct page=0 off=58601 len=27 crc=ok
+LOG PAGE rg=0 col=items.x stream=values page=0 off=58628 len=15 crc=ok

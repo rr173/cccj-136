@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "root": "R",
+  "structs": {
+    "R": {
+      "fields": [
+        {"num": 1, "name": "a", "type": {"kind": "int64", "nullable": false}},
+        {"num": 2, "name": "s", "type": {"kind": "struct", "struct": "S", "nullable": false}},
+        {"num": 3, "name": "tags", "type": {"kind": "list", "nullable": false,
+          "elem": {"kind": "text", "nullable": false}}}
+      ]
+    },
+    "S": {
+      "fields": [
+        {"num": 1, "name": "b", "type": {"kind": "text", "nullable": false}}
+      ]
+    }
+  }
+}
